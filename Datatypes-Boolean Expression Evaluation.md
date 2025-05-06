@@ -18,4 +18,6 @@ To write a Python program that evaluates and prints the results of boolean and a
 Add Code here
 
 ## Output
-## Result
+
+![2 py](https://github.com/user-attachments/assets/7ccccbaa-849f-427c-9906-f8a7ccce959b)
+
